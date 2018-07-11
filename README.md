@@ -1,8 +1,8 @@
-## Daily-react-035-ip-adress-app
+## Daily-react-035-ip-address-app
 
-> Challenge: create an IP adress app that shows your IP and location...
+> Challenge: create an IP address app that shows your IP and location...
 
-Work in progress: https://github.com/jamal7x7/daily-react-035-ip-adress-app
+Work in progress: https://github.com/jamal7x7/daily-react-035-ip-address-app
 
 
 Roadmap:
